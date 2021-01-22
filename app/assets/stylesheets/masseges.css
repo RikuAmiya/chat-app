@@ -44,7 +44,7 @@
   text-decoration: none;
   color: white;
 }
-.main-chat{
+.chat{
   background-color: #ffffff;
   width: calc(100vw - 300px);
 }
